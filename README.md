@@ -4,7 +4,7 @@
 
 ## ✨ Overview
 
-![](D:\Github\Agentic-RAG-with-MCP-Server\Image\AgenticRAGMCPServer.gif)
+![](Image/AgenticRAGMCPServer.gif)
 
 **Agentic RAG with MCP Server** is a powerful project that brings together an MCP (Model Context Protocol) server and client for building **Agentic RAG** (Retrieval-Augmented Generation) applications.
 
